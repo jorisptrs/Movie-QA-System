@@ -1,8 +1,3 @@
-
-
-
-
-
 lines = open('all_qs.csv', 'r', encoding='utf8').readlines()
 questions = []
 for line in lines:
