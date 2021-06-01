@@ -1,0 +1,1148 @@
+No|Query|Answer
+0|What movie won best picture in the 2020 Academy Awards?|Answer not found
+1|Who voices Nala in the 2019 version of The Lion King?|Answer not found
+2|What was the budget for Avengers: Endgame?|220000000
+3|Which is the longest Jim Carrey movie?|Answer not found
+4|What movie(s) feature both Jack Nicholson and Meryl Streep?|Answer not found
+5|Which director has been nominated most for the Best Director Academy Award?|Answer not found
+6|What is the name of the actor who's father was a hitman?|Error
+7|What movie(s) did M. Night Shyamalan direct before the year 2000?|Answer not found
+8|What are the top three best worldwide grossing animated movies?|Error
+9|Which actors have portrayed the character James Bond?|Answer not found
+10|What is the movie The Avengers about?|Joss Whedon
+11|Where was Titanic shot?|Answer not found
+12|What year did Grease come out?|Grease 2
+13|How many awards did Titanic win?|Academy Award for Best Picture, Academy Award for Best Director, Academy Award for Best Original Song, Academy Award for Best Cinematography, Academy Award for Best Costume Design, Academy Award for Best Production Design, Academy Award for Best Film Editing, Academy Award for Best Visual Effects, Academy Award for Best Sound Editing, Japan Academy Prize for Outstanding Foreign Language Film, Golden Globe Award for Best Director, National Film Registry, Academy Award for Best Sound, Golden Globe Award for Best Motion Picture – Drama, Saturn Award for Best Supporting Actress, Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Supporting Role, Golden Globe Award for Best Original Score, Golden Globe Award for Best Original Song, National Board of Review: Top Ten Films, Satellite Award for Best Film, Chicago Film Critics Association Award for Best Cinematography, Las Vegas Film Critics Society Award for Best Song, MTV Movie Award for Best Male Performance, Art Directors Guild Award for Excellence in Production Design for a Feature Film, Directors Guild of America Award for Outstanding Directing – Feature Film, European Film Award – Jameson People's Choice Award – Best Actress, Producers Guild of America Award for Best Theatrical Motion Picture, Amanda Award for Best Foreign Feature Film, Academy Award for Best Original Dramatic Score
+14|Did Iron Man pass the Bechdel test?|Bechdel test, reverse Bechdel Test
+15|What kind of film is Iron Man?|Answer not found
+16|Who won the Academy Award for Best Director in 2012?|Alfonso Cuarón, Alejandro González Iñárritu, Ang Lee, Bong Joon-ho
+17|Where does A Star Is Born take place?|Los Angeles
+18|Who directed A Star Is Born?|Lady Gaga, Dave Chappelle, Brandi Carlile, Alec Baldwin, Bradley Cooper, Bonnie Somerville, Greg Grunberg, Sam Elliott, Ron Rifkin, Eddie Griffin, Luenell, Don Was, Andrew Dice Clay, Drena De Niro, Matthew Libatique, Rafi Gavron, Rebecca Field, Michael D. Roberts, Shangela Laquifa Wadley, Michael Harney, Marlon Williams, Anthony Ramos Martinez
+19|How much did it cost to film Tenet?|Answer not found
+20|In what year did the first Harry Potter movie come out?|Answer not found
+21|What are the titles of the Harry Potter movies?|Answer not found
+22|What is the Kijkwijzer rating of The Hitman's Bodygard?|Answer not found
+23|When is George Clooney born?|1961-05-06T00:00:00Z
+24|How many awards did George Clooney receive?|Academy Award for Best Picture, Academy Award for Best Supporting Actor, BAFTA Award for Best Film, Golden Globe Award for Best Actor – Motion Picture Musical or Comedy, Golden Globe Award for Best Actor – Motion Picture Drama, Golden Globe Cecil B. DeMille Award, Golden Globe Award for Best Supporting Actor – Motion Picture, MTV Movie Award for Best Breakthrough Performance, Saturn Award for the Best Actor, European Film Award for Best Non-European Film, National Board of Review Award for Best Film, Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series, Chevalier des Arts et des Lettres, Indiana Film Journalists Association Award for Best Actor
+25|Which movie came after Pokemon 3: The Movie?|Anurag Basu
+26|Which actors have played Tony Stark?|Robert Downey Jr., Davin Ransom
+27|Who won the Academy Award for Best Supporting Actor in 1995?|Alfonso Cuarón, Alejandro González Iñárritu, Ang Lee, Bong Joon-ho
+28|What are the main subjects of the movie Taken?|Error
+29|What was the cause of death of Alan Rickman?|pancreatic cancer
+30|Who directed The Prestige|Error
+31|When was the last Lord of the Rings movie released|Answer not found
+32|Where was Pulp Fiction filmed|Los Angeles
+33|Which awards did Blade Runner receive|Answer not found
+34|1964|Error
+35|Who composed the music for Inception|Error
+36|What was the box office for Whiplash|Error
+37|Who wrote the on which the Shawshank Redemption was based|corruption, friendship, hope, imprisonment, miscarriage of justice, Incarceration in the United States, abuse of power, male bonding
+38|Which company produced Westworld|Metro-Goldwyn-Mayer
+39|In which aspect ratio was Kingsman: The Secret Service filmed|Answer not found
+40|What university did Adam Sandler attend?|Answer not found
+41|How many Pokémon episodes are there?|Answer not found
+42|Who are the executive producers of Suits?|Answer not found
+43|When did the pilot episode of The Blacklist air?|Error
+44|Who directed the 2018 biographical film about Queen?|Error
+45|In what country was Bohemian Rhapsody released on the 31st of October, 2018?|2018-10-24T00:00:00Z, 2018-10-31T00:00:00Z, 2018-11-01T00:00:00Z, 2018-11-02T00:00:00Z
+46|What actor received an Oscar/Academy Award for their work in Bohemian Rhapsody?|Elizabeth Taylor, Michael Chekhov, Vittorio Gassman, Celia Lovsky, Barbara Bates, John Mylong, Stuart Whitman, Louis Calhern, John Ericson, Richard Hageman, Marion Elisabeth Degler, Madge Blake, Konstantin Shayne, Stuart Holmes, Gordon Richards, Richard Lupino
+47|For which Oscars/Academy Awards was the film Shrek nominated?|Academy Award for Best Animated Feature
+48|What is the Netflix ID of the film Shrek?|Answer not found
+49|What film, directed by Bong Joon-ho, led him to receive the Academy Award for Best Director?|Answer not found
+50|Who directed Fight Club?|Answer not found
+51|Who are the screenwriters for The Place Beyong The Pines?|Answer not found
+52|Who is the main character from Mad Max?|Answer not found
+53|What is the name of the main character from Mad Max?|Answer not found
+54|When was Al Pacino born?|1940-04-25T00:00:00Z
+55|What genre is Midsommar?|Answer not found
+56|How long does the movie Shot Caller take to watch?|Ric Roman Waugh
+57|Who created the music for Interstellar?|drama, adventure film, science fiction film, dystopian film, drama
+58|Who is the lead actor of Inception?|Error
+59|What is the theme for Pulp Fiction?|organized crime
+60|What is the latest Avengers movie?|Joss Whedon
+61|What's the German name of Groundhog Day?|Answer not found
+62|Who plays the main character in The Joker?|Answer not found
+63|In what aspect ratio was Zack Snyder's Justice League shot?|widescreen
+64|Who wrote Titanic?|Answer not found
+65|How did the composer of Django Unchained die?|Answer not found
+66|Who composed the music for Avatar?|science fiction, action film, adventure film, science fiction film, military science fiction, live-action animated film
+67|When was Quentin Tarantino's cinema opened?|Quentin Tarantino
+68|Why did Brangelina end?|Answer not found
+69|Who is Josey Matas famous nephew?|Seth Rogen, Mark Rogen, Sandy Rogen
+70|When was Steven Spielberg born?|1946-12-18T00:00:00Z
+71|Who is the director of Love Actually?|Richard Curtis
+72|What is the country of origin of mr. Bean?|Error
+73|Where was Leonardo DiCaprio born?|1974-11-11T00:00:00Z
+74|Who is the composer of Pirates of the Caribbean?|Hans Zimmer
+75|What is the catchphrase of James Bond?|The name is Bond, James Bond
+76|Who are the film editors of Titanic?|Answer not found
+77|What is the duration of The Fault in Our Stars?|126
+78|What are the genres of the movie Jaws?|drama, thriller film, film based on a novel
+79|What was the filming location of the Harry Potter film series?|Godric’s Hollow
+80|Who directed Lord of The Rings?|Peter Jackson
+81|Who played the title character in 2008 film Iron Man?|Phil Coulson
+82|Where does Die Hard take place?|United States of America
+83|Who played Joker in The Dark Knight?|Answer not found
+84|Who directed Pulp Fiction?|Answer not found
+85|Who wrote the screenplay and played the main character for Rocky?|Sylvester Stallone
+86|Who plays Forrest Gump?|Answer not found
+87|Who were the composers for Batman Begins?|Answer not found
+88|What is the sequel to Captain America : Winter Soldier?|Answer not found
+89|What is the original broadcaster of Breaking Bad?|Answer not found
+90|When was Harry Potter and the Philosopher stone publish in the US?|Answer not found
+91|Who are the screenwriters on Avengers: Endgame?|Answer not found
+92|Who owns Pixar?|Answer not found
+93|Who was the first person to play James Bond?|Answer not found
+94|What nationality does Scarlett Johansson have?|United States of America, Denmark
+95|What was the budget for Avatar?|237000000
+96|Who presented the Oscars in 2012?|Answer not found
+97|When did Charlie Chaplin pass away?|Answer not found
+98|When was the subreddit for Star Wars created?|StarWars
+99|What awards did Frozen receive?|Answer not found
+100|Who is the director of the movie Midsommar?|Ari Aster
+101|What are the main subjects of the movie Tenet?|Answer not found
+102|What movie was Interstellar influenced by?|2001: A Space Odyssey
+103|Who was the composer of Inception?|Hans Zimmer
+104|How much did 2001: A Space Oddyssey cost to make?|Error
+105|For which award was the movie Climax nominated for?|Answer not found
+106|How many episodes does Twin Peaks have?|18
+107|In what film format was Rosemary's Baby shot?|video on demand
+108|What was the box office amount for the movie Psycho|Error
+109|How long is the movie Mulholland Drive?|David Lynch
+110|When did Leonardo DiCaprio start acting?|1989-01-01T00:00:00Z
+111|Who directed Once Upon a Time in Hollywood?|Answer not found
+112|When did Star Wars: Episode IV – A New Hope get published in the United States?|Answer not found
+113|Which countries is Martin Scorsese a citizen in?|Answer not found
+114|What are the names of Martin Scorsese's children?|Answer not found
+115|Who performed the music on Interstallar?|Answer not found
+116|What is the duration of 2001: A Space Odyssey?|114
+117|Who presented the 65th British Academy Film Awards?|Answer not found
+118|What is the genre of Dunkirk?|drama, war film
+119|Which awards did Memento win?|National Film Registry, National Board of Review: Top Ten Films
+120|Who is the director of the movie Forrest Gump?|Robert Zemeckis
+121|Who are the main two actors from the movie Titanic?|Answer not found
+122|Who is the main actor of the movie Forrest Gump?|Valentine, Tiffany Salerno, Marla Sucharetza, Aloysius Gigl, Jack Bowden, Lazarus Jackson, Matt Rebenkoff, Peter Bannon, Joe Washington, Natalie Hendrix, Chiffonye Cobb, Juan Singleton, Michael Mattison, Lenny Herb, Charles Boswell, Timothy McNeil, Lonnie Hamilton, Teresa Denton, John Lennon, Tom Hanks, Gerald Ford, Hanna R. Hall, Kurt Russell, Gary Sinise, Sally Field, Robin Wright, Sam Anderson, Dick Cavett, Mary Ellen Trainor, Siobhan Fallon Hogan, Haley Joel Osment, Mykelti Williamson, Bobby Richardson, Michael Jace, Michael Conner Humphreys, Geoffrey Blake, Joe Alaskey, Sonny Shroyer, Jacqueline Lovell, John Voldstad, Afemo Omilami, Christopher Jones, Peter Dobson, Stephen Bridgewater, David Brisbin, Al Harrington, Brett Rice, Joe Stefanelli, Nora Dunfee, Vanessa Roth, Hallie D'Amore, Daniel C. Striepeke, Emily Carey, Elizabeth Hanks, W. Benson Terry, Kevin Davis, Michael Burgess, Don Fischer, Rebecca Williams, Harold G. Herthum, George Kelly, Bob Penny, John Randall, Margo Moorer, Ione M. Telech, Christine Seabrook, John Worsham, Alexander Zemeckis, Logan Livingston Gomez, Ben Waddel, Tyler Long, Grady Bowman, Kevin Mangan, Fay Genens, Frank Geyer, Rob Landry, Jason McGuire, Pete Auster, Ed Davis, Bruce Lucvia, Kirk Ward, Angela Lomas, Timothy Record, Deborah McTeer, Mark Matheisen, Jed Gillin, Bob Harks, Kenneth Bevington, Michael Flannery, Gary Robinson, Marlena Smalls, Kitty K. Green, Matt Wallace, Danté McCarthy, Paulie DiCocco, Mike Jolly, Michael Kemmerling, Jeffrey Winner, Russ Wilson, Daniel J. Gillooly, Calvin Gadsden, Aaron Izbicki, Steven Griffith, William Acy "Billy" Roberson Jr, Michael McFall, Eric Underwood, Steve DeRelian, Byron Minns, Bonnie Ann Burgess, Scott Oliver, John William Galt, Hilary Chaplain, Isabel Rose, Jay Ross, Richard D'Alessandro, Dick Stilwell, Tim Perry, Paul Raczkowski
+123|What is the genre of the movie Interstellar?|drama, adventure film, science fiction film, dystopian film, drama
+124|What is the date of birth of the actress Natalie Portman?|1981-06-09T00:00:00Z
+125|What is the main subject of the movie Interstellar?|interstellar travel
+126|In what year was the movie Interstellar released?|Christopher Nolan
+127|When did the awarded actress Katharine Hepburn die?|Answer not found
+128|What are the genres of the movie The Breakfast Club?|drama, comedy-drama, teen film, coming-of-age story
+129|What is the original language of movie Anna Karenina?|English
+130|Who directed The Shining?|Error
+131|What is the runtime of The Godfather?|DOS
+132|Does Casablanca have a website?|Answer not found
+133|Does Solaris pass the Bechdel test?|Answer not found
+134|How many cast members are in 12 angry men?|Error
+135|What did it cost to make Blade Runner?|Answer not found
+136|Was Harrison Ford in Apocalypse Now?|Answer not found
+137|Did Samuel L. Jackson produce Pulp Fiction?|Answer not found
+138|Is Nicolas Cage Nicolas Cage's real name, if no, what is it?|Answer not found
+139|What is Gone With The Wind about?|Error
+140|Who is the voice actor of Darth Vader in Star Wars?|Answer not found
+141|When did Kung Fu Panda came out as a movie?|Answer not found
+142|Who are the members of the Teenage Mutant Ninja Turtles?|Answer not found
+143|Who is the director of Pulp Fiction?|Quentin Tarantino
+144|Who is an enemy of Bilbo Baggins?|Answer not found
+145|Who is the father of Simba?|Mufasa
+146|What is the duration of I Am Legend?|film
+147|What genre is The Hangover?|Answer not found
+148|Who is Batman?|Answer not found
+149|Where does Guy Ritchie come from?|Answer not found
+150|Han Solo was played by which actor in Star Wars: Episode IV – A New Hope?|Harrison Ford, Alden Ehrenreich
+151|Who directed The Dark Knight?|Christopher Nolan
+152|Which famous composer created music for Inception?|Error
+153|How many movies are included in the Harry Potter series?|Answer not found
+154|Where was Slumdog Millionaire filmed?|Mumbai
+155|When was The Shawshank Redemption published in Germany?|1994-09-10T00:00:00Z, 1994-09-23T00:00:00Z, 1995-03-01T00:00:00Z, 1995-03-09T00:00:00Z, 1995-07-06T00:00:00Z
+156|What is the name of the character played by Al Pacino in The Godfather?|Answer not found
+157|Which movies are in the The Lord of the Rings trilogy?|Answer not found
+158|What are the languages spoken in Steven Cameron's Avatar?|Answer not found
+159|To which genres does Avengers: Endgame belong?|ambient music, shoegaze, drone
+160|Who are the founders of Pixar Animation Studios?|Edwin Catmull, Alvy Ray Smith
+161|What caused the death of Walt Disney?|1966-02-15T00:00:00Z, 1966-12-15T00:00:00Z
+162|How many followers does Studio Ghibli have on social media?|334187
+163|When was the movie A Silent Voice publicated in Germany?|Naoko Yamada
+164|At which locations was The Intouchables filmed?|Answer not found
+165|Who was the director of Kimi no Na wa?|Steven Soderbergh
+166|Who won the Oscar for Best Supporting Actor in 2013?|3025
+167|What is the name of the dad of Steven Spielberg?|Steven
+168|To which genres does Weathering with You belong?|Error
+169|Who narrated The Big Lebowski?|Sam Elliott
+170|What is the name of Thor's hammer in the Avengers?|Answer not found
+171|Who founded the Walt Disney Animation Studios?|Answer not found
+172|When did the TV-series Doctor Who first start?|Error
+173|Where is Jurassic Park located in the film from 1993?|Answer not found
+174|What is the catchphrase of the fictional character James Bond?|The name is Bond, James Bond
+175|What are the titles of the three parts of the Lord of the Rings trilogy?|Answer not found
+176|Who played the character Marty McFly in the Back to the Future trilogy?|Answer not found
+177|What was the name of the beer consumed by character in the Harry Potter universe?|Harry
+178|Who was the director of the film Avatar?|James Cameron
+179|Who composed the music for the 2001 film Amelie?|drama, comedy film, romantic comedy, magic realist film
+180|Who is the director of The Hangover?|Todd Phillips
+181|What is spider-man's name?|Error
+182|When did Stan Lee die?|Answer not found
+183|Who is Elizabeth Keen's father?|Raymond Reddington
+184|How long is Bridge of Spies?|142
+185|Who acted as James Bond?|Answer not found
+186|Who directed Bridge of Spies?|Answer not found
+187|Where is Captain America from?|Answer not found
+188|When was Robert Langdon born?|Answer not found
+189|Where was Angels and Demons filmed?|Answer not found
+190|Who composed the music for The Lord of the Rings: The Fellowship of the Ring?|fantasy film, traditionally animated film, film based on a novel
+191|Who played Obi-Wan in the Star Wars prequel trilogy?|Answer not found
+192|Which movies are in the Star Wars prequel trilogy?|Answer not found
+193|Which awards did The Platform win?|Answer not found
+194|Which company distributed The Platform?|Answer not found
+195|Who made the Skyfall theme song?|Answer not found
+196|Which languages does Hayden Christensen speak?|Spanish
+197|When was the first Star Wars Movie released?|J. J. Abrams, Rian Johnson
+198|Who played Hitler in Der Untergang?|Answer not found
+199|Which movies did John Williams compose music for?|Answer not found
+200|What year were the first Academy Awards hosted?|Answer not found
+201|Who are the cast members in The Lighhouse?|Answer not found
+202|Where was The Seventh Seal filmed?|Answer not found
+203|What is the original language of Memories of Murder?|Answer not found
+204|Who directed the movie 8 1/2?|Error
+205|How long is The Holy Mountain?|Answer not found
+206|What is the first line of Citizen Kane?|Answer not found
+207|Who won the Academy Award for Best Film in 2020?|Alfonso Cuarón, Alejandro González Iñárritu, Ang Lee, Bong Joon-ho
+208|When was Stalker released?|1979-05-25T00:00:00Z
+209|What are the genres of Whiplash?|drama, musical film
+210|Who is the creator of the TV series "Succession"?|Error
+211|What are the narrative locations (cities) in the movie "Lost in Translation"?|Error
+212|Who was a music composer in the movie "Interstellar"?|Answer not found
+213|What are the names of the "Lord of the Ring" trilogy?|Answer not found
+214|For what movie Meryl Streep received her first Academy Award?|Answer not found
+215|What production company created the animated movie "Finding Nemo"?|Pixar
+216|Where did the film director Martin Scorsese was born?|1942-11-17T00:00:00Z
+217|How much did the production of the movie "Inglourious Basterds" (2009) cost?|Answer not found
+218|When was the first movie "Kill Bill" released?|Answer not found
+219|Who was the screenwriter of the "Social Media"?|Answer not found
+220|Where was the movie "Who killed captain Alex" filmed?|Stephen La Rivière
+221|Who was the lead actor in "Tenet"?|Answer not found
+222|When was "Kill Bill" first premiered?|Answer not found
+223|Who wrote the score for the movie Interstellar?|Answer not found
+224|What was the duration of Bladerunner 2049?|Answer not found
+225|What was the budget of the 2009 movie, Avatar?|237000000
+226|Who directed James Bond: Skyfall?|Answer not found
+227|When did Quentin Tarantino first start working on movies?|1983-01-01T00:00:00Z
+228|What is the twitter username of the Japanese TV series, Doraemon?|Answer not found
+229|What is Christopher Nolan an instance of?|Answer not found
+230|Who composed the music Pirates of the Caribbean?|pirate film, action comedy film
+231|Who played Obi-Wan Kenobi in Star Wars?|Answer not found
+232|What are the roles that Samuel L. Jackson played in the Star Wars franchise and the Marvel Cinamatic Universe?|Answer not found
+233|Which performers have been in the role of Anakin Skywalker?|Answer not found
+234|How much time does it cost to watch The Karate Kid from 1984?|Answer not found
+235|At what coordinates can we find a big sign that states 'Hollywood'?|Answer not found
+236|List all the actors that have played James Bond?|Answer not found
+237|What was the box office of Avatar in the United States?|Answer not found
+238|What are the names of the four members of the A-team?|Answer not found
+239|On what date did the actor playing Brian O'Conner in The Fast and the Furious die?|Answer not found
+240|When was the first James Bond movie released?|Answer not found
+241|Who wrote the books on which the Bourne Trilogy was based?|Answer not found
+242|What genre is the movie Saving Private Ryan?|Answer not found
+243|Who directed the first Shrek movie?|Error
+244|Did Tommy Lee Jones star in the movie the Fugitive?|1969-01-01T00:00:00Z
+245|When was Harrison Ford born?|Answer not found
+246|Who composed the music for the Star Wars Trilogy?|Answer not found
+247|What is the Dutch age rating for the movie Bohemian Rhapsody?|Answer not found
+248|What is the main subject of the movie I, Robot?|android
+249|Which role did Will Smith play in I, Robot?|Answer not found
+250|What is Quentin Tarantino's date of birth?|Answer not found
+251|Who played in Inception?|Hans Zimmer
+252|Where did Leonardo DiCaprio go to school?|Answer not found
+253|How long is the movie Iron Man?|Jon Favreau
+254|Who created Star Wars?|Answer not found
+255|When was Interstellar released?|2014-10-26T00:00:00Z, 2014-11-05T00:00:00Z, 2014-11-06T00:00:00Z, 2014-11-07T00:00:00Z
+256|Where was Mark Ruffalo born?|Answer not found
+257|How tall is Bryan Cranston?|Answer not found
+258|What languages does Christoph Waltz speak?|French, German, English
+259|Who is the director of Fury?|Error
+260|How many awards has Quentin Tarentino won?|Answer not found
+261|When was The Shawshank Redemption released in the United States?|1994-09-10T00:00:00Z, 1994-09-23T00:00:00Z, 1995-03-01T00:00:00Z, 1995-03-09T00:00:00Z, 1995-07-06T00:00:00Z
+262|Who played Freddie Mercury in Bohemian Rhapsody?|piano, guitar, keyboard instrument, Hammond organ, voice
+263|How many minutes long is The Wolf of Wall Street?|Answer not found
+264|In what year is The Revenant set?|Answer not found
+265|From what country does the movie T-34 originate?|Error
+266|What are the main subjects of Saving Private Ryan?|Answer not found
+267|What is the box office of 8 Mile?|Answer not found
+268|What is the Kijkwijzer rating of IT?|Answer not found
+269|Who directed the 1990 movie Tremors?|Ron Underwood
+270|Who is Tom Hanks currently married to?|Answer not found
+271|In 1996 Nicolas Cage won an Academy Award for Best Actor, which work was it for?|Answer not found
+272|What MPAA film rating did The Matrix receive?|Answer not found
+273|Who were the screenwriters of Team America: World Police?|Answer not found
+274|What is the German label for the 1968 Sergio Leone film Once Upon a Time in the West?|Answer not found
+275|What is the film Dr. Strangelove also known as in English?|comedy film, war film, satirical film, black comedy film, film based on a novel
+276|What was the filming location of the film Metropolis?|Answer not found
+277|The 2011 film Tinker Tailor Soldier Spy is made after a work by whom?|Answer not found
+278|How tall is the actor Toby Jones?|1.65
+279|Who directed Minari?|Lee Isaac Chung
+280|Who won the Oscar for best actress in the 77th Academy Awards?|Answer not found
+281|Where did It Happened One Night take place?|Error
+282|How many awards has Ryan Reynolds earned?|Saturn Award, MTV Movie & TV Awards, MTV Movie Award for Best Fight, Canada's Walk of Fame, Governor General's Performing Arts Awards
+283|Who directed photography for Gravity?|Alfonso Cuarón
+284|What year was Grave of the Fireflies initially released?|1988-01-01T00:00:00Z
+285|The Matrix series currently has three movies. What is the last one called?|The Matrix trilogy
+286|How much did the most expensive movie to produce cost?|Error
+287|What genre is the Netflix Death Note movie?|Answer not found
+288|What country won the oscar for best foreign film in 2020?|Error
+289|When was Tom Hanks born?|Answer not found
+290|Who are the children of Shrek?|Answer not found
+291|How much did Inception cost to produce?|Answer not found
+292|How long is Shrek Forever After?|Error
+293|Which movie won the Academy Award for Best Picture in 2020?|Answer not found
+294|Where was Forrest Gump produced?|Wendy Finerman, Steve Starkey, Charles Newirth, Steve Tisch
+295|Who directed The Room?|Answer not found
+296|Who composed the music for Slumdog Millionaire?|drama, crime film, romance film, coming-of-age story, film based on a novel
+297|What films are in the Unbreakable movie series?|Answer not found
+298|How tall is Amitabh Bachchan?|1.88
+299|For which movie did Greta Gerwig receive an Academy Award nomination?|Answer not found
+300|When did Leonardo DiCario win an Oscar?|Answer not found
+301|What is the name of the character Kate Winslet playded in the Titanic?|Answer not found
+302|Who directed The Sound of Music?|Answer not found
+303|When was Tom Hanks born?|Answer not found
+304|Where was Anne Hathaway born?|Answer not found
+305|How many children has Steven Spielberg?|Jessica Capshaw, Sasha Spielberg, Sawyer Spielberg, Max Spielberg, Theo Spielberg
+306|How long is the movie Avatar?|James Cameron
+307|Where was Jurassic Park filmed?|Answer not found
+308|What is the sequel to Gremlins?|Error
+309|What is Leonardo Di caprio his Age?|human
+310|What is the net worth of George Clooney|Answer not found
+311|How many prices did Tenet won|Answer not found
+312|Who was the screenwriter of mission impossible Fallout?|Christopher McQuarrie
+313|When did Paul Walker die?|2013-11-30T00:00:00Z
+314|How many twitter followers does Zac Efron have?|15622151
+315|Who are the creators of How I met your mother?|Error
+316|Who is the main character in Hannah Montena?|Answer not found
+317|What year was the notebook made?|Error
+318|Who are the directors of Iron man|Answer not found
+319|Who won the first Academy Award?|Answer not found
+320|Who won the most Academy Awards?|Answer not found
+321|What is the highest grossing movie of all time?|Error
+322|Which movie had the longest production time?|Error
+323|How many years ago did Blu-Ray DVDs come out?|Answer not found
+324|What is Tom Hanks Net worth?|Answer not found
+325|In what country was Lord of the Rings filmed?|Answer not found
+326|Who is Jules Winnfield?|Answer not found
+327|What is Francis Ford Coppola most succesful movie?|Answer not found
+328|Which actress was murdered by the Manson Cult?|Answer not found
+329|Who is the director of Doctor Strange in the Multiverse of Madness?|Scott Derrickson
+330|Which actor was Bruce Banner played by in the 2003 movie Hulk?|Eric Bana, Mike Erwin
+331|What actors have played War Machine?|Afghanistan
+332|What genres does the film The Shop around the Corner belong to?|Error
+333|Did The Lego Movie 2: The Second Part pass the Bechdel test?|Answer not found
+334|Who directed In a World...?|Error
+335|Which movie is the last in The Infinity Saga?|Answer not found
+336|Who produced Bowling for Columbine?|Michael Moore
+337|In how many movies has the Winter Soldier featured, played by Sebastian Stan?|Answer not found
+338|Which actors played the role of James Bond|Answer not found
+339|What are the names of the two brothers who won the 69th Academy Award for Best Original Screenplay?|Answer not found
+340|Jonah Hill was nominated twice for the Academy Award for Best Supporting Actor. Name the movies.|Answer not found
+341|Actor Tom Cruise is involved with which cult-like church?|Answer not found
+342|What is the name of the main character of Walt Disney's first film?|Answer not found
+343|How is the movie called that The Disaster Artist is based on?|371638
+344|How long is the movie Intouchables?|Olivier Nakache, Éric Toledano
+345|With whom did Christopher Nolan co-produce the 2020 film Tenet?|http://commons.wikimedia.org/wiki/Special:FilePath/Christopher%20Nolan%20Cannes%202018.jpg
+346|In what industry other than filmmaking is the Warner Bros. production company active?|Answer not found
+347|Where was the movie Tropic Thunder shot at?|Answer not found
+348|When was Leonardo DiCaprio born?|1974-11-11T00:00:00Z
+349|Who directed Inception?|Error
+350|Who played Elliot Alderson in Mr. Robot?|Answer not found
+351|What is the religion of Sam Esmail?|Answer not found
+352|What is an example of a film?|Error
+353|When was the première of Iron Man?|2008-04-30T00:00:00Z, 2008-05-01T00:00:00Z, 2008-05-02T00:00:00Z
+354|Where was Gaspar Noé born?|Answer not found
+355|What is the genre of Enter the Void?|horror film
+356|What is the original language of Fight Club?|English
+357|When did David Fincher start working?|1984-01-01T00:00:00Z
+358|On which book is Schindler's List based?|Answer not found
+359|When will the next Jurassic World movie be released in the US?|2015-05-29T00:00:00Z, 2015-06-10T00:00:00Z, 2015-06-11T00:00:00Z, 2015-06-12T00:00:00Z
+360|Who did Leonardo DiCaprio play in The WOlf of Wall Street?|Answer not found
+361|For what award was Omar Sy nominated for his role in The Intouchables?|European Film Award – People's Choice Award for Best European Film, European Film Award for Best Film, European Film Award for Best Actor, European Film Award for Best Screenwriter
+362|What year is Hacksaw Ridge set in?|Japan
+363|How many Back to the Future movies are there?|Error
+364|What is the prequel of Mission: Impossible - Rogue Nation?|Answer not found
+365|When was the director of Coming to America born?|John Landis
+366|How much did Toy Story make?|Answer not found
+367|Where was Whiplash filmed?|Error
+368|What is the name of the actor playing Walter White in the series Breaking Bad?|Walter
+369|Who are the directors of the movie Avengers: Endgame?|Answer not found
+370|In what year did the TV-show Friends premiere?|Answer not found
+371|What was the original broadcaster of the TV-show Friends?|Answer not found
+372|What is the title of the theme music of the TV-show Friends?|Answer not found
+373|When did Chadwick Boseman die?|Answer not found
+374|Which actor plays the lead character in the TV-series the Mandalorian?|Werner Herzog, Nick Nolte, Mark Hamill, Rosario Dawson, Katee Sackhoff, Gina Carano, Ming-Na Wen, Amy Sedaris, Omid Abtahi, Carl Weathers, Temuera Morrison, Giancarlo Esposito, Bill Burr, Pedro Pascal, Emily Swallow
+375|Who is the creator of the TV-series the Mandalorian?|Jon Favreau
+376|What are the main subjects of the Netflix miniseries the Queen's Gambit?|Answer not found
+377|Which actress plays Beth Harmon in the Netflix miniseries the Queen's Gambit?|Answer not found
+378|Which parts does a film have?|Error
+379|Who is the director of Coherence?|James Ward Byrkit
+380|Who is the director of Coherence?|James Ward Byrkit
+381|What is the IMDb ID of Coherence?|tt2866360
+382|What is the duration of The Girl with the Dragon Tattoo?|158
+383|What is/are the publication date(s) of The Girl with the Dragon Tattoo?|Answer not found
+384|How much does it cost for producing The Girl with the Dragon Tattoo?|Answer not found
+385|Which movies are directed by Alice Wu?|Answer not found
+386|Who is the editor of The Half of It?|Error
+387|What is the type of Hotel Transylvania?|3D film, animated feature film
+388|Who acted as tony stark in iron man?|Error
+389|When was the movie Avatar released in the United States of America?|James Benning
+390|What is the genre of Pirates of the Caribbean?|pirate film, action comedy film
+391|Who is playing Dr. Stephen Strange in the Doctor Strange?|Answer not found
+392|What is the box office of Interstellar?|Answer not found
+393|What is the production company of Shrek?|Answer not found
+394|Which country made Godzilla?|Answer not found
+395|What film won Academy Award for Best Picture in 2015?|Answer not found
+396|What is the cause of death of Paul Walker?|traffic collision
+397|Who directed Kung Fu Panda 2?|Jennifer Yuh Nelson
+398|What is the name of the story that the movie Arrival is based on?|Answer not found
+399|What is the birth city of Jim Carrey?|Answer not found
+400|When was the Spanish film director Eduardo Casanova born?|Answer not found
+401|How long does it take to watch the documentary The Social Dilemma?|Answer not found
+402|Who was in charge of designing costumes for the film Joker?|Answer not found
+403|Can you tell me in which city the movie The King of Comedy is set?|Answer not found
+404|Which production companies are associated with the movie Shutter Island?|Answer not found
+405|Who wrote the book that the movie Turkish Delight is based on?|video on demand
+406|Which Dutch cabaret artist directed the movie Billy?|comedy film, comedy-drama
+407|What are the genres of the movie Black Mirror: Bandersnatch?|drama, science fiction film
+408|Who is the main player in the movie "The Hunger Games"(2012)?|Error
+409|Which awards did the movie "The Hunger Games"(2012) recieve?|Answer not found
+410|Who was the performer in the movie "Interstellar"(2014)|Error
+411|When was Hans Zimmer born?|1957-09-12T00:00:00Z
+412|How much dollars did the movie "Avatar"(2009) cost?|Answer not found
+413|What is the duration of the movie "Avatar"(2009)?|Answer not found
+414|What are the original languages of the movie "The pianist"(2002)?|Answer not found
+415|What are the main subjects of the movie "The Pianist"(2002) ?|Error
+416|Who was awarded for the 'MTV Movie Award for Hest Villain' in 2018?|MTV
+417|Which locations were used to film the movie "Black Panther"(2018)|Error
+418|What is the total number of cast members of Iron Man?|Answer not found
+419|When did Disney have less than 100,000 employees?|Answer not found
+420|What is the official name of the Oscars?|Answer not found
+421|Does Walt Disney Productions own Beauty and the Beast?|The Walt Disney Company, Walt Disney Pictures
+422|What is the name of the sequel to Finding Nemo?|Answer not found
+423|When was Snow White and the Seven Dwarfs by Disney made?|Answer not found
+424|What is the name of the voice actor that plays Mufasa in The Lion King?|Answer not found
+425|Who are the screenwriters of Venom?|Answer not found
+426|What is the protagonist of the movie Dumbo?|Answer not found
+427|When did Leonardo DiCaprio win his first award?|Academy Award for Best Actor, Golden Globe Award for Best Actor – Motion Picture Musical or Comedy, Screen Actors Guild Award, BAFTA Award for Best Actor in a Leading Role, Golden Globe Award for Best Actor – Motion Picture Drama, Silver Bear, Silver Bear for Best Actor, Golden Globe Award, MTV Movie Award for Best Jaw Dropping Moment, MTV Movie Award for Best Male Performance, AACTA Award for Best Actor in a Leading Role, Chevalier des Arts et des Lettres, Alliance of Women Film Journalists Award for Best Actor, Horatio Alger Award, Crystal Award
+428|Who directed the movie "Pulp fiction"?|Error
+429|When did the first Harry Potter movie come out?|Answer not found
+430|Who played Frodo Baggins in The Lord of the Rings movies?|Ian Holm, Elijah Wood
+431|Where did the Oscars take place in 2020?|United States of America
+432|How long is the movie "127 Hours"?|Error
+433|What is the genre of the movie "Zootopia"?|adventure film, family film, action comedy film, computer-animated film
+434|Who directed the movie "Zootopia"?|Byron Howard, Rich Moore, Jared Bush
+435|What is Leonardo DiCaprio's birth name?|Wilhelm, Leonardo
+436|When was Alfred Hitchcock born?|1899-08-13T00:00:00Z
+437|What is the main subject of the movie "Paranormal Activity"?|supernatural, demon, haunted house
+438|Who won the Academy Award for Best Actor in 2020?|Alfonso Cuarón, Alejandro González Iñárritu, Ang Lee, Bong Joon-ho
+439|In which countries was the Joker published on 4 October 2019?|2019-08-31T00:00:00Z, 2019-10-03T00:00:00Z, 2019-10-04T00:00:00Z, 2019-10-09T00:00:00Z, 2019-10-10T00:00:00Z
+440|For which movie did Leonardo Dicaprio receive the Academy award for best actor?|Academy Award for Best Actor, Golden Globe Award for Best Actor – Motion Picture Musical or Comedy, Screen Actors Guild Award, BAFTA Award for Best Actor in a Leading Role, Golden Globe Award for Best Actor – Motion Picture Drama, Silver Bear, Silver Bear for Best Actor, Golden Globe Award, MTV Movie Award for Best Jaw Dropping Moment, MTV Movie Award for Best Male Performance, AACTA Award for Best Actor in a Leading Role, Chevalier des Arts et des Lettres, Alliance of Women Film Journalists Award for Best Actor, Horatio Alger Award, Crystal Award
+441|Which actress died because of drowing caused by coronary artery disease and cocaine intoxication?|Error
+442|Which actresses, whose firstnames start with an M, have won the Academy Award for Best actress?|Alfonso Cuarón, Alejandro González Iñárritu, Ang Lee, Bong Joon-ho
+443|What is Will Smith's real name?|Carroll, Willard
+444|Which movie directors are convicted of sexual assault?|Error
+445|How many Academy Award nominations does Morgan Freeman have?|Answer not found
+446|Who has a higher net worth, Jim Carrey or Martin Lawrence?|Answer not found
+447|Was Brad Pitt married to Angelina Jolie?|Jonny Lee Miller, Brad Pitt, Billy Bob Thornton
+448|How much did the production of The Lord of the Rings: The Return of the King cost?|Fantasy Films Productions
+449|Does the movie Roundhay Garden Scene pass the Bechdel test?|16463
+450|Is Brad Pitt male?|male
+451|Interstellar was directed by whom?|Christopher Nolan
+452|Inception was directed by whom?|Error
+453|When The Lord of the Rings: The Return of the King released?|Answer not found
+454|What is the title of the movie produced by Christopher Nolan, published in 2014?|Answer not found
+455|After whom was the movie Fack ju Göhte (German) named?|Bora Dağtekin
+456|By which movie was Fack ju Göhte (German) followed?|Answer not found
+457|What was the original language of Fack ju Göhte?|German
+458|When was the first Harry Potter movie released?|Answer not found
+459|Who were the founders of Studio Ghibli?|Hayao Miyazaki, Isao Takahata, Toshio Suzuki, Yasuyoshi Tokuma
+460|Does Christopher Nolan's first feature film pass the Bechdel test?|Answer not found
+461|In The Godfather, who played Vito Corleone?|Answer not found
+462|What was the worldwide box office result of James Cameron's Titanic?|Answer not found
+463|When did Walt Disney die?|disney-walter-elias
+464|How tall is the actor playing Mark Watney in The Martian?|Answer not found
+465|For what movie did Leonardo DiCaprio win an Oscar?|3896
+466|Who voices Mr. Fox in Wes Anderson's Fantastic Mr. Fox?|Answer not found
+467|How many Balto movies have been made?|Answer not found
+468|When was Audrey Hepburn born?|Answer not found
+469|What was the first movie in the world?|Error
+470|Who is the film producer of the first 3D movie?|Error
+471|Who was the first person to ever win an Oscar?|Answer not found
+472|What was the first movie to win an Oscar?|Answer not found
+473|What was the first movie that won the most awards?|Error
+474|What was the first movie Theater?|Answer not found
+475|Which director has directed the most films?|Error
+476|How many films did Goffrey Ho directed?|Answer not found
+477|Who is the youngest film director of the World?|Answer not found
+478|What Korean movie won the Academy Award for Best Picture in 2020?|Answer not found
+479|Who directed Pulp Fiction?|Answer not found
+480|What is the country of origin of the drama film 'Mommy'?|Answer not found
+481|Who were the creators of one of the most popular TV shows of all times, 'Game of Thrones', often referred to by the fanbase as D and D?|Answer not found
+482|What are the names of all three parts of the Lord of the Rings trilogy?|Answer not found
+483|What is the release year of 'Die Hard'?|Error
+484|What is the country of origin of the animated series 'Death Note'?|Answer not found
+485|Who composed the music for the epic science fantasy space opera saga and media franchise 'Star Wars'?|fantasy film, action film, adventure film, space opera, science fiction film, coming-of-age story
+486|Who played the lead role in the film 'The Truman Show'?|Answer not found
+487|What is the title of Steven Spielberg's film about the holocaust?|Answer not found
+488|What is the name of the actress playing "Rachel Green" in "Friends"?|Rachel
+489|How many Acadamy Awards has "Titanic" won?|Academy Award for Best Picture, Academy Award for Best Director, Academy Award for Best Original Song, Academy Award for Best Cinematography, Academy Award for Best Costume Design, Academy Award for Best Production Design, Academy Award for Best Film Editing, Academy Award for Best Visual Effects, Academy Award for Best Sound Editing, Japan Academy Prize for Outstanding Foreign Language Film, Golden Globe Award for Best Director, National Film Registry, Academy Award for Best Sound, Golden Globe Award for Best Motion Picture – Drama, Saturn Award for Best Supporting Actress, Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Supporting Role, Golden Globe Award for Best Original Score, Golden Globe Award for Best Original Song, National Board of Review: Top Ten Films, Satellite Award for Best Film, Chicago Film Critics Association Award for Best Cinematography, Las Vegas Film Critics Society Award for Best Song, MTV Movie Award for Best Male Performance, Art Directors Guild Award for Excellence in Production Design for a Feature Film, Directors Guild of America Award for Outstanding Directing – Feature Film, European Film Award – Jameson People's Choice Award – Best Actress, Producers Guild of America Award for Best Theatrical Motion Picture, Amanda Award for Best Foreign Feature Film, Academy Award for Best Original Dramatic Score
+490|What is the first line from "Forest Gump"?|Answer not found
+491|Can "The Matrix" be watched on Netflix?|Answer not found
+492|What is the name of Spider-Man?|Answer not found
+493|Who has played Spider-Man?|Answer not found
+494|How many "Star Wars" films are there?|Answer not found
+495|What is IMDB?|Error
+496|Who is the main actor in "Vanilla Sky"?|Jason Lee, Steven Spielberg, Tom Cruise, Penélope Cruz, Michael Shannon, Cameron Diaz, Kurt Russell, Tilda Swinton, Tara Lipinski, Alicia Witt, Ivana Miličević, Laura Fraser, Shalom Harlow, Timothy Spall, Johnny Galecki, Ken Leung, William Mapother, Tommy Lee, Jennifer Aspen, Conan O'Brien, Noah Taylor, Mark Kozelek, Jean Carol, James Murtaugh, Stacey Sher, W. Earl Brown, Brent Sexton, Tim Hopper, Mark Pinter, Cameron Watson, Jennifer Gimenez, John Fedevich, Jonathan Sanger, Nicole Taylor Hart, Oona Hart, Roger Lim, Jane Pratt, Armand Schultz
+497|How old was Leonardo DiCaprio when he played in "Inception"?|Answer not found
+498|Who is the director of the movie "Midsommar"?|Ari Aster
+499|Who are the directors of the movie "Captain America: The Winter Soldier"?|Answer not found
+500|What are the genres of the movie "Promising Young Woman"?|black comedy, drama
+501|What is the filming location of the movie "Pulp Fiction"?|Answer not found
+502|Which Academy Awards did the movie "Avatar" receive?|Answer not found
+503|Who is the costume designer of the movie "Shrek"?|Error
+504|What is the production company of the movie "Black Widow"?|Answer not found
+505|What is the duration of the movie "Tenet"?|Answer not found
+506|What the movie "Interstellar" is influenced by?|2001: A Space Odyssey
+507|How much did the movie "Inception" earn in box office?|Error
+508|What genres is The Hitman's Bodyguard?|Answer not found
+509|What is the second name of Samuel L. Jackson?|Samuel, Leroy
+510|How many followers does Ryan Reynolds have?|17004631
+511|What are the first 2 Star Wars trilogies?|Answer not found
+512|What is the original language of Murder on the Orient Express?|Italian
+513|Where was the Roundhay Garden Scene made?|Answer not found
+514|Which country first published Kingsman: the Secret Service?|United States of America
+515|How old should you be to watch Kingsman: the Secret Service?|Answer not found
+516|What are the sequels of Kingsman: the Secret Service?|Answer not found
+517|How many occupations does Rowan Atkinson have?|Answer not found
+518|Who was the protagonist in "The Transporter" in 2002?|Answer not found
+519|Who was the actor playing Frank Martin in "The Transporter" in 2002?|Answer not found
+520|When is Tony Stark's birthday?|Answer not found
+521|When was "The Avengers" released in Germany?|Answer not found
+522|Who is the father of Luke Skywalker?|Anakin Skywalker
+523|Who were the film editors of a "A New Hope" that were female?|Answer not found
+524|What is the duration of John Wick?|101
+525|Who played in "John Wick" and was born in Stockholm?|Answer not found
+526|Which screenwriter of "Enders Game" is already dead?|Gavin Hood
+527|Who is the oldest producer of the "Dark Knight"?|Answer not found
+528|When was Quentin Tarantino born?|1963-03-27T00:00:00Z
+529|What's the name of the character played by Samuel L. Jackson in The Avengers Saga?|Samuel, Leroy
+530|What's the name of the character played by Samuel L. Jackson in The Avengers Saga?|Samuel, Leroy
+531|Who created Star Wars?|English
+532|What were the filming locations of The Matrix?|Answer not found
+533|What's the duration of Mad Max: Fury Road?|88
+534|Who plays John Wick?|Answer not found
+535|For what movie did Leonardo DiCaprio won an Academy Award for best actor?|Academy Award for Best Actor, Golden Globe Award for Best Actor – Motion Picture Musical or Comedy, Screen Actors Guild Award, BAFTA Award for Best Actor in a Leading Role, Golden Globe Award for Best Actor – Motion Picture Drama, Silver Bear, Silver Bear for Best Actor, Golden Globe Award, MTV Movie Award for Best Jaw Dropping Moment, MTV Movie Award for Best Male Performance, AACTA Award for Best Actor in a Leading Role, Chevalier des Arts et des Lettres, Alliance of Women Film Journalists Award for Best Actor, Horatio Alger Award, Crystal Award
+536|What awards did Inglourious Basterds received?|Academy Award for Best Supporting Actor, National Board of Review: Top Ten Films
+537|What was the box office of Avatar?|Answer not found
+538|Who are the directors of the Matrix?|Answer not found
+539|What year did Will Smith start acting?|Answer not found
+540|How many Academy Awards does Quentin Tarantino have?|Answer not found
+541|Where was Before Sunrise filmed?|Answer not found
+542|What year did the Godfather come out?|United Kingdom
+543|What is the Social Network based on?|Answer not found
+544|Who composed the music for Gone Girl?|drama, crime film, mystery film, crime thriller, film based on a novel
+545|How long is the Wolf of Wallstreet?|Answer not found
+546|Who won the Academy Award for Best Actor in 2020?|Alfonso Cuarón, Alejandro González Iñárritu, Ang Lee, Bong Joon-ho
+547|Which languages are in Call Me By Your Name?|Error
+548|What movie did Leonardo DiCaprio win his first Oscar for?|3896
+549|What is Adam Sandler's net worth?|Answer not found
+550|Where was Morgan Freeman born?|1937-06-01T00:00:00Z
+551|Who is Julia Robert's husband?|Daniel Moder
+552|Where are the Academy Awards held?|Answer not found
+553|What language is spoken in Parasite?|Answer not found
+554|How many Oscar nomination does Meryl Streep have?|Academy Award for Best Actress, Academy Award for Best Supporting Actress, Tony Award for Best Featured Actress in a Play, European Film Award – People's Choice Award for Best European Film, Golden Globe Award for Best Actress – Motion Picture Musical or Comedy, MTV Movie Award for Best Villain
+555|Who plays Jordan Belfort in The Wolf of Wall Street?|drum kit
+556|When was Casino Royale released?|2006-11-14T00:00:00Z, 2006-11-17T00:00:00Z, 2006-11-23T00:00:00Z, 2006-11-24T00:00:00Z
+557|Who directed Tenet?|Christopher Nolan
+558|Who won the 91st Academy Award for Best Director?|Answer not found
+559|Who composed the soundtrack of the movie Cloud atlas|Error
+560|What is the publication date of Harry Potter and the Philosopher's Stone?|Answer not found
+561|When was the Pixar movie Brave released?|Lee Unkrich, Adrian Molina
+562|Which Non-English Language movie was the first to win the Academy Award for Best Picture?|Answer not found
+563|Which war film was nominated in 92nd Academy Awards?|Answer not found
+564|Who played Katniss Everdeen?|Jennifer Lawrence
+565|Who played Katniss Everdeen?|Jennifer Lawrence
+566|Who is Ariel voiced by in The Little Mermaid?|Answer not found
+567|Which company produced Kiki's Delivery service?|Studio Ghibli
+568|What kind of movie is Harry Potter?|Answer not found
+569|What is Harry Potter about?|Answer not found
+570|Who made the music for Inception?|Error
+571|Who came up with the idea of the Inception movie?|Answer not found
+572|What is the name of the second Wonder Woman movie?|Answer not found
+573|Which actor plays the main figure in Wonder Woman?|Chris Pine, Doutzen Kroes, Zack Snyder, Gal Gadot, David Thewlis, Connie Nielsen, Elena Anaya, Robin Wright, Danny Huston, Saïd Taghmaoui, Lucy Davis, Ewen Bremner, Eleanor Matsuura, Florence Kasumba, Lisa Loven Kongsli, Eugene Brave Rock
+574|How many seasons of the show Merlin exist?|Answer not found
+575|What is the name of the song of the series "Friends"?|Error
+576|Who is the actor of Chandler Bing in Friends?|Matthew Perry
+577|When did the Avatar film hit cinemas in Germany?|science fiction, action film, adventure film, science fiction film, military science fiction, live-action animated film
+578|What is the first movie in the Harry Potter series?|Answer not found
+579|What is the original language of Harry Potter and the Chamber of Secrets?|English
+580|When is J.K.Rowling's birthday?|Error
+581|What is the series ordinal of Detective Conan: The Private Eyes' Requiem?|Answer not found
+582|Who is the director of Detective Conan: The Private Eyes' Requiem?|Yasuichiro Yamamoto
+583|Who is the voice actor of Conan Edogawa?|Kappei Yamaguchi, Junpei Mizobata, Minami Takayama, Tobias Müller
+584|What is Minami Takayama's occupation?|composer, singer, seiyū
+585|What is Minami Takayama's blood type?|human
+586|What production company made Despicable Me?|Error
+587|What kind of movie is Despicable Me?|Error
+588|Who was the best actor of 2020|Error
+589|How much money was spent to create "John Wick 2" ?|Answer not found
+590|What is the name of the actor playing in Joh Wick?|Answer not found
+591|What is the name of Kevin Hart's first spouse?|Answer not found
+592|What is Dwayne Johnson's nickname?|Answer not found
+593|Who played Po in "Kung Fu Panda"?|Answer not found
+594|Who directed the movie "How To Train Your Dragon"?|Answer not found
+595|How is Arnold Schwarzenegger remembered in the movie industry?|Answer not found
+596|When was Jason Statham born?|1967-07-26T00:00:00Z
+597|Who were the two main actors of "Catch me if you can"?|Error
+598|Who is the composer of Lord of The Rings?|Howard Shore
+599|Who plays Dwight Schrute in The Office?|Rainn Wilson
+600|On what book is the 2011 film Limitless based on?|Answer not found
+601|What is the main subject of The Big Short?|financial crisis of 2007–08
+602|What is the sequel to the movie Rise of the Planet of the Apes?|Dawn of the Planet of the Apes
+603|What is the name of the theme music of Peaky Blinders?|Answer not found
+604|Who are the original broadcasters of the tv series Community?|Answer not found
+605|Who are the screenwriters of Avatar: The Last Airbender?|Answer not found
+606|What is the country of origin of Black Mirror?|United Kingdom
+607|What is the filming location of Narcos?|Answer not found
+608|Who directed Pulp Fiction?|Answer not found
+609|What year was Japanese film director Hayao Miyazaki born?|1941-01-05T00:00:00Z
+610|Who plays the role of Nikola Tesla in 'The Prestige'?|Answer not found
+611|Who composed the soundtrack for the 2019 movie 'Polar'?|deadmau5
+612|How many movies are there in the "Ocean's" series?|Answer not found
+613|What year was Christopher Nolan's 'Inception' originally released?|Answer not found
+614|Who plays the role of Gimli in the 'The Lord of the Rings' film series?|Answer not found
+615|What is the 2009 movie 'Up' about?|Error
+616|What is the original Japanese name of 'Spirited Away'?|Error
+617|Who composed the soundtrack for the movie 'Interstellar'?|Hans Zimmer
+618|Who is the actor of Roy Batty?|Answer not found
+619|What is the duration of "Star Wars Episode IV: A New Hope"?|Answer not found
+620|Who directed "Event Horizon" (1997)?|Paul W. S. Anderson
+621|When was Ridley Scott born?|Answer not found
+622|How much did Avengers: Endgame (2019) earn in the box office worldwide?|Answer not found
+623|What is Omar Sy's country of citizenship?|France
+624|How did Obi-Wan Kenobi die?|Answer not found
+625|What is Nicolas Cage's birth name?|Answer not found
+626|When was Nicolas Cage born?|Answer not found
+627|Who are Nicolas Cage's Siblings?|Answer not found
+628|When did Robin Williams die?|2014-08-11T00:00:00Z
+629|Who are the three main characters of Harry Potter?|Answer not found
+630|Which neuroscientist plays in a serie?|Error
+631|Who was the director of The Hobbit trilogy?|Answer not found
+632|Which is the highest-grossing movie?|Error
+633|When was the first Star Wars movie relaesed?|George Lucas
+634|What is the Lord of the ring movie called in German?|Answer not found
+635|What was George Cloony's first wife's name?|Answer not found
+636|Who played the first James Bond?|Answer not found
+637|When did the richest actress die?|Error
+638|When was Terence Hill born?|1939-03-29T00:00:00Z
+639|What is the title of Pulp Fiction?|Pulp Fiction
+640|What is Pulp Fiction?|Answer not found
+641|What are the given names of Leonardo DiCaprio?|Answer not found
+642|Who is the mother of Leonardo DiCaprio?|Irmelin DiCaprio
+643|How many people live in Hollywood?|Answer not found
+644|What is Schindler's List about?|Answer not found
+645|Who are the directors of Schindler's List?|Answer not found
+646|What caused Gollum's death?|burn
+647|What is the native language of Gollum?|Westron
+648|When was the movie the matrix released?|Error
+649|On what day was Will Smith born?|Answer not found
+650|Did Leonardo Dicaprio receive an Oscar?|3896
+651|What is the full name of Johnny Depp?|Christopher, John
+652|How many children does Johnny Depp have?|Lily-Rose Depp, Jack Depp
+653|What are the names of Johnny Depp's children?|Answer not found
+654|Who directed The Titanic?|Answer not found
+655|Where was The Titanic filmed?|San Francisco, Mexico, Nova Scotia, Long Beach, Vancouver, Polsa Rosa Movie Ranch
+656|What are the names of the separate parts of the Ice Age film franchise?|Answer not found
+657|In what year was Ice Age: The Meltdown released?|Answer not found
+658|Who directed "Life is Beautiful"?|Error
+659|When did Roberto Benigni receive a Nastro D'Argento for Best Actor?|Answer not found
+660|Where was Meryl Streep born?|Answer not found
+661|How many Academy Awards did Leonardo DiCaprio receive?|Answer not found
+662|When will the 93rd Academy Awards take place?|Dolby Theatre
+663|Who are the leading actors of "Black Swan"?|Answer not found
+664|What movie genre is "Persona"?|Answer not found
+665|What is the main subject of "The Godfather"?|Answer not found
+666|When did "Nomadland" premiere?|Answer not found
+667|Which work is "The Shawshank Redemption" based on?|Answer not found
+668|When was The Truman Show released?|Answer not found
+669|Who was the director of Inception?|Christopher Nolan
+670|What awards did The Godfather receive?|Academy Award for Best Picture, Academy Award for Best Actor, Academy Award for Best Writing, Adapted Screenplay, National Film Registry, National Board of Review: Top Ten Films
+671|By which companies was Arrested Development produced?|Imagine Entertainment, 20th Century Fox Television
+672|What is the narrative location of The Office?|Answer not found
+673|To what genre belongs the television series Suits?|Error
+674|What institutions of education did Steve Carell go to?|Answer not found
+675|Where was Idris Elba born?|Answer not found
+676|To what ethnic group does Martin Scorsese belong?|Answer not found
+677|What is Quentin Tarantino's religion?|Answer not found
+678|When was Star Wars: Episode IV – A New Hope, published in France?|Answer not found
+679|In what capital was the film The Fault in Our Stars, filmed?|Amsterdam
+680|What are the names of the children of the director of Mowgli: Legend of the Jungle?|Answer not found
+681|Which actors, who were born in a city which shares a border with Tanzana, and played in Long shot have more than 1 million Twitter followers?|Answer not found
+682|Which cast members of Trust Fund, who played a character in that film from which the name starts with an M, are stage actors as well as television actors?|Answer not found
+683|In what years did the producers of "Three Billboards Outside Ebbing, Missouri" whose career started between 1990 and 2000, start their career?|Answer not found
+684|In what country is the university, where the director of Seven Pounds studied, located?|Answer not found
+685|When was the youngest actress of Mard born?|Anu Malik
+686|For how many awards has, the actor or actress with the most nominations in his or her career and who played in the film Lion (2016), been nominated?|Answer not found
+687|What are the names of the genres of Antwone Fisher?|Answer not found
+688|What is the name of the character played by Elijah Wood in the Lord of the Rings movies?|Answer not found
+689|What are the genres of Inception?|Error
+690|Which actor got an Academy Award for Best Actor for the role in The Revenant?|Leonardo DiCaprio, Tom Hardy, Domhnall Gleeson, Lukas Haas, Brendan Fletcher, Kristoffer Joner, Will Poulter, Paul Anderson, Javier Botet, Robert Moloney, Brad Carter, Vincent Leclerc
+691|Who is the director of Reservoir Dogs?|Quentin Tarantino
+692|Who is Hans Zimmer?|Answer not found
+693|Who won the oscar for Best Actress between 2012 - 2016|Answer not found
+694|Who played Wilm Hosenfeld in The Pianist?|Answer not found
+695|Who is the voice of Shrek?|Eddie Murphy, Cameron Diaz, Mike Myers, Vincent Cassel, Chris Miller, Jim Cummings, John Lithgow, Cody Cameron, Conrad Vernon, Aron Warner, Christopher Knights
+696|How many awards did Christopher Nolan receive?|Order of the British Empire, Saturn Award, Sundance Film Festival, Edgar Awards, Commander of the Order of the British Empire, Indiana Film Journalists Association Award for Best Director
+697|What are the main subjects of The Trial of the Chicago 7?|Answer not found
+698|When was actrice Jennifer Lawrence born?|Answer not found
+699|For his role in which movie did Leonardo DiCaprio receive an Academy Award?|Answer not found
+700|Of which four movies does the Hunger Games trilogy exist?|Answer not found
+701|By whom is Obi-Wan Kenobi killed in the Star Wars saga?|Answer not found
+702|In what year was the movie Grease published?|Error
+703|Who is the CEO of Netflix?|Answer not found
+704|Which group of superheroes is Iron Man a member of?|Answer not found
+705|What is Batman's birth name?|Answer not found
+706|Who are the three main cast members in the Harry Potter film series?|Answer not found
+707|Who is the director of the movie Interstellar?|Christopher Nolan
+708|How many Harry Potter movies are there?|Answer not found
+709|Who was the director of Skyfall?|Sam Mendes
+710|In what year was The Matrix released?|1999-03-31T00:00:00Z, 1999-06-17T00:00:00Z, 1999-07-14T00:00:00Z
+711|How many seasons does the series How I Met Your Mother have?|Answer not found
+712|Who is the actor playing Barney in the How I Met Your Mother series?|Answer not found
+713|Is The Incredibles movie animated?|Brad Bird
+714|Who is the original broadcaster of The Social Dilemma movie?|Answer not found
+715|In which countries was the movie Spectre published first?|Answer not found
+716|What was the first publication date of the movie Shrek?|Error
+717|What is the country of citizenship of Quentin Tarantino?|Answer not found
+718|Who are the three main characters in the Harry Potter movies?|Answer not found
+719|Who was the director of the 2020 movie Tenet?|Christopher Nolan
+720|In what year is Steven Spielberg's famous war movie starring Tom Hanks set?|Steven Spielberg
+721|How much did the sci-fi movie Avatar cost?|James Cameron
+722|Who were the cast members of the movie Lighthouse?|Error
+723|Which awards did Inception receive?|Academy Award for Best Cinematography, Academy Award for Best Visual Effects, Academy Award for Best Sound Editing, Academy Award for Best Sound, National Board of Review: Top Ten Films
+724|How many screenwriters did Good Will Hunting have?|Answer not found
+725|What country was Blood Diamond filmed in?|Answer not found
+726|What was the movie Shawshank Redemption based on?|Frank Darabont
+727|Was Top Gun filmed in San Diego?|Answer not found
+728|What type of movie is Korengal?|Answer not found
+729|When was Inception released?|Error
+730|What was Wes Anderson's first movie?|Answer not found
+731|How many oscars did Titanic win?|Academy Award for Best Picture, Academy Award for Best Director, Academy Award for Best Original Song, Academy Award for Best Cinematography, Academy Award for Best Costume Design, Academy Award for Best Production Design, Academy Award for Best Film Editing, Academy Award for Best Visual Effects, Academy Award for Best Sound Editing, Japan Academy Prize for Outstanding Foreign Language Film, Golden Globe Award for Best Director, National Film Registry, Academy Award for Best Sound, Golden Globe Award for Best Motion Picture – Drama, Saturn Award for Best Supporting Actress, Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Supporting Role, Golden Globe Award for Best Original Score, Golden Globe Award for Best Original Song, National Board of Review: Top Ten Films, Satellite Award for Best Film, Chicago Film Critics Association Award for Best Cinematography, Las Vegas Film Critics Society Award for Best Song, MTV Movie Award for Best Male Performance, Art Directors Guild Award for Excellence in Production Design for a Feature Film, Directors Guild of America Award for Outstanding Directing – Feature Film, European Film Award – Jameson People's Choice Award – Best Actress, Producers Guild of America Award for Best Theatrical Motion Picture, Amanda Award for Best Foreign Feature Film, Academy Award for Best Original Dramatic Score
+732|Who wrote the score for Lord of the Rings?|Answer not found
+733|Which movie in the franchise was Pirates of the Caribbean: On Stranger Tides?|Gore Verbinski
+734|Where was The Guard set?|Answer not found
+735|How long is The Shawshank Redemption?|Answer not found
+736|Who framed Roger Rabbit in Who Framed Roger Rabbit?|Answer not found
+737|Who stars in The Man From Earth?|Answer not found
+738|What movies have Lucasfilm made?|Answer not found
+739|Who is the director of Anubis en de Wraak van Arghus?|Dennis Bots
+740|What is the sequel to Monsters, Inc.?|Monsters University
+741|In what format is David Attenborough: A Life on Our Planet available?|Answer not found
+742|Where was David Attenborough educated?|Answer not found
+743|When premiered the prequel to Incredibles 2?|The Incredibles
+744|How long does Home Alone take?|Answer not found
+745|What is the site of the 1997 Titanic movie?|http://www.titanicmovie.com
+746|Of how many movies consists the Harry Potter series?|Albus Severus Potter, Lily Luna Potter, James Sirius Potter
+747|Which genre is Johnny English Strikes Again?|comedy film, spy film
+748|When premiered the original Lion King?|1998-03-17T00:00:00Z, 1998-10-27T00:00:00Z
+749|Who is the director of the film Avatar?|James Cameron
+750|In which Star Wars movies does the character Kylo Ren appear in?|Answer not found
+751|How many children does the actor Daniel Craig have?|2
+752|Who is the creator of the film character Darth Vader?|Answer not found
+753|In which war does the film character Forrest Gump partake in?|Error
+754|How tall is the actor Mark Ruffalo?|Answer not found
+755|Who plays the leading actor in the movie Black Panther?|Stan Lee, Forest Whitaker, Andy Serkis, Angela Bassett, Martin Freeman, Sebastian Stan, Daniel Kaluuya, Denzel Whitaker, Danai Gurira, Isaach de Bankolé, Florence Kasumba, Sterling K. Brown, Michael B. Jordan, Lupita Nyong'o, Alex Hibbert, Atandwa Kani, Bambadjan Bamba, Chadwick Boseman, John Kani, Lucy Hockings, Danny Sapani, Winston Duke, Letitia Wright, Sope Aluko, Sydelle Noel, Seth Carr, Shaunette Renée Wilson, Janeshia Adams-Ginyard, David S. Lee, Nabiyah Be, Connie Chiume, Dorothy Steel, Marija Juliette Abney, Maria Hippolyte, Marie Mouroum, Jénel Stevens, Zola Williams, Ashton Tyler, Christine Hollingsworth, Roland Kilumbu, Jermaine Holt, Dominique Elijah Smith, Jalil Jay Lynch, Vaughndio Forbes, Sasha Morfaw, Alexis Louder, Francesca Faridany, Mark Ashworth, Jeremy Sample, Chad Crumley, Alexis Rhee, Danny Chung, Liz Elkins Newcomer, Tony Sears, Alex Riley Hughes, Clifford Gay, Shamel Heath, De'Jon Watts, Abraham Clinkscales, Thabo Moropane, Zani Mogodi, Zenzi Williams
+756|How long is the film Titanic?|drama, melodrama, disaster film, romance film, flashback film
+757|What color is the film character Shrek?|Error
+758|In which month was Michael Douglas born in?|1942-10-23T00:00:00Z
+759|When was David Lynch born?|1946-01-20T00:00:00Z
+760|Who composed the music for the original Twin Peaks series?|drama, horror film, psychological horror, crime film, mystery film
+761|What is the oldest Disney movie?|Answer not found
+762|Which Harry Potter movie made the most money at the box office?|Answer not found
+763|How many characters have part in the fictional group The Fellowship of The Ring?|Gollum, Frodo Baggins, Gandalf, Aragorn, Bilbo Baggins, Galadriel, Arwen, Isildur, Gimli, Elrond, Legolas, Saruman, Samwise Gamgee, Peregrin Took, Meriadoc Brandybuck, Boromir, Gil-galad, Celeborn, Elendil, Lurtz, Haldir
+764|whet is the original title of The Platform?|Answer not found
+765|Who are the two main characters in Better Call Saul?|Saul Goodman, Mike Ehrmantraut
+766|Who is the director of Pulp Fiction and Inglourious Basterds?|Answer not found
+767|What is the series Game of Trones based on?|Answer not found
+768|What languages are spoken in Game of Trones?|Answer not found
+769|When was the first world cup?|Error
+770|Who won the 2011-12 Champions League?|Answer not found
+771|What happens when a player commits a foul?|Error
+772|What is Italy's national championship called?|Answer not found
+773|Who is the captian of England's national football team?|Answer not found
+774|Where was the 2012 UEFA European cup held?|Answer not found
+775|Who participated in the World cup 2018 final?|Answer not found
+776|How many members does UEFA have?|Answer not found
+777|What are FIFA's subsidiaries?|Answer not found
+778|What is the motto of FIFA?|Answer not found
+779|On what year was The Matrix released?|Answer not found
+780|Who are the directors of The Matrix?|Answer not found
+781|Who was the director of photogrpahy for Memento?|Christopher Nolan
+782|What genre is Star Wars?|Answer not found
+783|In what language was Shrek originally released?|Error
+784|Who composed the music for Unbreakable?|drama, fantasy film, thriller, detective fiction, horror film, science fiction film, mystery film, superhero film
+785|Who is the creator of the Avengers?|Answer not found
+786|Who is the actor commonly associated in movie coluture with the "Voice of God"?|Answer not found
+787|Who is the first actor to play James Bond?|Answer not found
+788|How much money did Tenet cost to produce?|Answer not found
+789|How much did the production of The Grand Budapest Hotel cost?|Answer not found
+790|Which awards did Parasite receive at the 92nd Academy Awards?|Answer not found
+791|Who directed Independence Day|Roland Emmerich
+792|In what year was "To All The Boys I've Loved Before" publicised?|Answer not found
+793|What are the titles of the movies of The Hunger Games film series?|Answer not found
+794|Who was the screenwriter of Rocky IV?|Sylvester Stallone
+795|Which production company produced Twister?|Amblin Entertainment
+796|What is the country of origin of "10 Things I Hate About You"?|Error
+797|Which song is the theme music of "No Time to Die"?|Error
+798|What genres is the movie Grease?|Answer not found
+799|What is the duration of The Fast and the Furious?|103
+800|Who voices the character Po in Kung Fu Panda?|debut single
+801|What is the publication date of The Road to El Dorado?|1966-01-01T00:00:00Z
+802|What is Spiderman's name?|Answer not found
+803|Who are the Russo brothers?|Error
+804|How much did Avengers: Endgame cost?|Answer not found
+805|How many Iron Man movie parts are there?|Answer not found
+806|Who directed The Room?|Tommy Wiseau
+807|Is Die Hard a Christmas film?|thriller
+808|Where does Saving Private Ryan take place?|Omaha Beach, Normandy
+809|Who directed the film "Titanic"?|drama, melodrama, disaster film, romance film, flashback film
+810|When was "Forrest Gump" released?|Answer not found
+811|What company produced the film series "Harry Potter?"|Answer not found
+812|How long is "The Matrix"?|Error
+813|Who played Brian in "2 Fast 2 Furious?"|Paul Walker
+814|Star Wars genre|fantasy film, action film, adventure film, space opera, science fiction film, coming-of-age story
+815|voice woody toy story|Error
+816|filming location the martian|Error
+817|director jurassic world fallen kingdom|Error
+818|What is the name of the hobbit played by Elijah Wood in the Lord of the Rings movies?|Elijah
+819|Who are the directors of the movie "The Matrix"?|Error
+820|What country was Jim Carrey born in?|Answer not found
+821|Which genres is the Film "Avatar" associated with?|Answer not found
+822|What movie did Leonardo DiCaprio receive an Academy Award for?|Academy Award for Best Actor, Golden Globe Award for Best Actor – Motion Picture Musical or Comedy, Screen Actors Guild Award, BAFTA Award for Best Actor in a Leading Role, Golden Globe Award for Best Actor – Motion Picture Drama, Silver Bear, Silver Bear for Best Actor, Golden Globe Award, MTV Movie Award for Best Jaw Dropping Moment, MTV Movie Award for Best Male Performance, AACTA Award for Best Actor in a Leading Role, Chevalier des Arts et des Lettres, Alliance of Women Film Journalists Award for Best Actor, Horatio Alger Award, Crystal Award
+823|What is the director Gaspar Noé employed at?|Answer not found
+824|What language was the movie "Climax" produced in?|Answer not found
+825|What language was the movie "Climax" produced in?|Answer not found
+826|What organizations is the film "Trading Places" distributed by?|Answer not found
+827|What location were the Golden Globe Awards held at in 2020?|Answer not found
+828|How long is the film "Scary movie"?|Error
+829|how many movies are in the Marvel cinematic Universe?|Answer not found
+830|How many awards did Quentin Tarantino receive?|BAFTA Award for Best Original Screenplay, Academy Award for Best Writing, Original Screenplay, 52nd Golden Globe Awards, Hungarian Order of Merit, Palme d'Or, 36th César Awards, 85th Academy Awards, 70th Golden Globe Awards, Edgar Awards, Golden Globe Award for Best Screenplay, 67th Academy Awards, National Board of Review Award for Best Film, 48th British Academy Film Awards, 66th British Academy Film Awards, Lumière Award, Lyon Festival of cinema, Commandeur des Arts et des Lettres, AAAS Fellow
+831|Which company produced Star Wars?|Lucasfilm
+832|When were the Lord of the Rings movies released|Answer not found
+833|When did Christopher Lee die?|London
+834|Who were the screenwriters of Ocean's 11?|Answer not found
+835|In which movies directed by Quintin Tarantino did Brad Pitt play?|Answer not found
+836|In which city was Christoph Waltz born?|1956-10-04T00:00:00Z
+837|How much did Saving private ryan cost in United States dollars?|Error
+838|What are the main subjects in Django Unchained?|Answer not found
+839|Who produced The Avengers movie|Joss Whedon
+840|For which movie did Robert Downey Jr. receive the Golden Globe Award for Best Actor?|Answer not found
+841|What is the english name for the fictional realm from the Marvel cinematic universe named Asgard in dutch?|Answer not found
+842|Where is Jason Statham from?|Answer not found
+843|Who did Arnold Schwarzenegger replace as the governor of California in 2003?|Answer not found
+844||Error
+845|What are the first three movies that Arnold Schwarzenegger is most well known for?|Answer not found
+846|Who directed Whiplash?|Error
+847|How many awards did the movie Whiplash receive?|Error
+848|When will Dune come out?|United States of America, Mexico
+849|What was Martin Scorsese's first film?|Answer not found
+850|Which movies earned Steven Spielberg an Academy Award?|Answer not found
+851|Which movies, directed by David O. Russell, did Jennifer Lawrence act in?|Answer not found
+852|When was Quentin Tarantino's most recent movie released?|Quentin Tarantino
+853|What are the nicknames of the lead character of The Big Lebowski?|Answer not found
+854|When were the fiftieth Oscars held?|Answer not found
+855|In what year did Meryl Streep start acting?|Answer not found
+856|When did Rushmore come out?|The Royal Tenenbaums
+857|What are the notable works of composer John Williams?|Answer not found
+858|What was the first movie with sound?|Error
+859|Who won the Best Picture Award in 2020 Academy Awards?|Answer not found
+860|When was Parasite filmed?|Yang Jin-mo
+861|Who directed Parasite?|Bong Joon-ho
+862|When was parasite released in South Korea?|Answer not found
+863|What is the genre of Parasite?|black comedy, drama, comedy film, thriller film
+864|Which movie won the Academy Award for Best Animated Feature in 2003|Academy of Motion Picture Arts and Sciences
+865|How many minutes is Spirited Away?|Error
+866|What is the sequel of Wreck-It Ralph?|Answer not found
+867|Who voiced Vanellope in Wreck-It Ralph?|Answer not found
+868|Which century is divergent set in?|Error
+869|Who composed the music for Lord of The Rings: The Fellowship of the Ring?|drama, fantasy film, action film, adventure film, film based on a novel
+870|Does Perfect Blue (1997) pass the Mako Mori test?|Answer not found
+871||Error
+872|How tall is Danny DeVito?|Answer not found
+873|What is Four Lions mainly about?|Answer not found
+874|How many children does Morgan Freeman have?|4
+875|What book is the movie Mean Girls based on?|Answer not found
+876|Who directed Bionicle: Mask of Light?|Answer not found
+877|Where was Spy Kids filmed?|Chile, The Bahamas
+878|What is the full name of legendary actor Nicolas Cage?|Kim, Nicolas
+879|Who is the director of Harry Potter?|Answer not found
+880|How many movies of harry potter are there?|Error
+881|Who is/are the producer(s) of the movie Shutter Island?|Answer not found
+882|Which production company produced Finding Nemo?|Pixar
+883|Which movies did Christopher Nolan direct?|Answer not found
+884|What is the name of the actor that played Alan Turing in the movie Imitation Game?|Alan
+885|What is the native label of Smeagol?|Gollum
+886|What jewelry is Smeagol owner of?|Answer not found
+887|How much dollar did it cost to produce the movie Tenet?|Answer not found
+888|On what is the movie Imitation Game based on?|Answer not found
+889|In what year was the movie 'psycho' published??|Error
+890|When was Christian Bale born?|Answer not found
+891|How many oscars did th movie 'the Titanic' win?|Answer not found
+892|Who directed the movie 'Shindler's list'?|Answer not found
+893|How long is Monty Python's life of Brian?|Answer not found
+894|Who was the composer for Pirates of the Caribbean: The Curse of the Black Pearl?|Hans Zimmer
+895|When did Christopher lee die?|London
+896|How much did it cost to make The Lord of the Rings: The Fellowship of the Ring?|Answer not found
+897|How many academy awards did Meryl Streep recieve?|Answer not found
+898|What year was the movie 'The Matrix' published?|1999-03-31T00:00:00Z, 1999-06-17T00:00:00Z, 1999-07-14T00:00:00Z
+899|When was the first Lord of the Rings movie released?|Answer not found
+900|What are all the Lord of the Rings movies?|Answer not found
+901|Which actor played Aragorn in Lord of the Rings?|Answer not found
+902|What is the dragon called in the Hobbit movies?|Answer not found
+903|What are all the wizards called in Lord of the Rings?|Answer not found
+904|What are all the Hobbit movies?|Answer not found
+905|Who was the director of the Lord of the Rings trilogy?|Ralph Bakshi
+906|When was the last Hobbit movie released?|Petersburg – Channel 5
+907|What are the names of the four hobbits in the Lord of the Rings?|Answer not found
+908|Who is the actor that plays Bilbo Baggings in the Hobbit movies?|Lloyd Hamilton
+909|Who is the director of Avatar?|James Cameron
+910|When was Titanic released in Germany?|1997-11-01T00:00:00Z, 1997-12-19T00:00:00Z, 1998-01-07T00:00:00Z, 1998-01-08T00:00:00Z, 1998-01-16T00:00:00Z
+911|How long is Pulp Fiction?|154
+912|Where was Joker filmed?|documentary film
+913|What genre is Schindler's List?|Answer not found
+914|When was James Cameron born?|1954-08-16T00:00:00Z
+915|How much did The LEGO Batman Movie make at box office?|Answer not found
+916|What movies has Ben Affleck directed?|Answer not found
+917|What genre is Argo?|Answer not found
+918|Who are the cast members of The Blair Witch Project?|Answer not found
+919|When is the first release date of movie The Matrix?|Answer not found
+920|In which country was the first release of movie The Matrix?|Answer not found
+921|Who are the directors of movie The Matrix?|Answer not found
+922|What is the main subject of the movie Interstellar?|interstellar travel
+923|What are the genres of the movie Interstellar?|Answer not found
+924|What is the longest duration of the movie Just Mercy?|Error
+925|Who is the screenwriter of the movie Just Mercy?|Error
+926|Where is the narrative location of the movie Just Mecry?|Answer not found
+927|Where was the movie El Camino: A Breaking Bad Movie filmed?|Vince Gilligan
+928|On which other movie/tv series is the movie El Camino: A Breaking Bad Movie based on?|Answer not found
+929|From which Disney movie is the great castle in the middle of Disneyland Paris?|Answer not found
+930|In which country is Jungle Book set?|video on demand
+931|Where does Winnie the Pooh live?|Answer not found
+932|What is the name of Simba's father in the movie The Lion King?|Answer not found
+933|When did Walter Disney die?|Answer not found
+934|From which movie is the quote “I’ll be back”?|Error
+935|Who plays Harley Quinn in Suicide Squad and Birds of Prey?|Answer not found
+936|In which 2004 movie is Bob Parr the father of a family?|Answer not found
+937|Who have played Batman?|Answer not found
+938|Which awards did actress Anne Hathaway receive?|Academy Award for Best Supporting Actress, Golden Globe Award for Best Supporting Actress – Motion Picture, Primetime Emmy Award
+939|Who directed the movie Goodfellas?|769
+940|When did the movie Full Metal Jacket air?|Stanley Kubrick
+941|Who are the creators of South Park?|Matt Stone, Trey Parker
+942|In which television series is the character Eric Cartman featured?|Answer not found
+943|What is the last name of the character Rick in Rick and Morty?|Answer not found
+944|Who played the role of Will Smith in The Fresh Prince of Bel-Air?|Answer not found
+945|What is the narrative location of Family Guy?|Answer not found
+946|How many seasons does Malcolm in the Middle have?|7
+947|Who directed Sicko (2007)|Michael Moore
+948|Which movie was based on the book I Heard You Paint Houses (2004)?|Answer not found
+949|Who is the director of the movie Fight Club?|David Fincher
+950|What is/are the genre/genres of the movie Hacksaw Ridge?|drama, war film, biographical film, romance film
+951|Who plays Alan Garner in the movie The Hangover?|Answer not found
+952|Who is the composer of the movie Django Unchained?|Ennio Morricone
+953|What is/are the main subject/subjects of the movie Mr. Nobody?|Answer not found
+954|When was the movie The Prestige released?|Christopher Nolan
+955|What is the original language of the movie Parasite?|Korean
+956|Did the movie Green Book win an Academy Award for Best Picture?|Peter Farrelly
+957|Who did Rupert Grint play in the movie Harry Potter and the Philosopher's Stone?|Quidditch
+958|What is the box office of the movie Harry Potter and the Goblet of Fire?|Answer not found
+959|Who is the writer of James Bond?|Ian Fleming
+960|What genre is Skyfall?|Answer not found
+961|What year did Interstellar come out?|United States of America, United Kingdom
+962|Who produced Interstellar?|Christopher Nolan, Emma Thomas, Lynda Obst
+963|How much did Wolf of Wallstreet cost?|Ann Roth
+964|What award did wolf of Wallstreet receive?|Answer not found
+965|Who is the director of Wolf of Wallstreet?|Mike Nichols
+966|Where was the origin of The Grand Budapest Hotel?|Hotel
+967|What is the duration of The Grand Budapest Hotel?|114
+968|Where is the headquarter of Marvel Studios?|Burbank
+969|What character does Bruce Willis play in Die Hard?|Answer not found
+970|Who created the Star Trek franchise?|Star Trek
+971|Who is the composer of Star Trek III: The Search for Spock?|James Horner
+972|In what year was the documentary Miss Americana released?|Answer not found
+973|What species is Jean-Luc Picard?|Answer not found
+974|What was the name of Jean-Luc Picard as given by the Borg?|Jean-Luc
+975|Who portrays Jean-Luc Picard?|Patrick Stewart
+976|In what country is Château Picard located?|La Barre
+977|In what year did Gene Roddenberry die?|1991-10-24T00:00:00Z
+978|Who is said to be the same as Ash Ketchum?|Red
+979|What was the publication date of the first Jurassic Park movie?|1993-06-11T00:00:00Z, 1993-09-02T00:00:00Z, 1993-09-03T00:00:00Z, 1993-10-20T00:00:00Z
+980|Who is the director of the Titanic?|Answer not found
+981|What genre are the Harry Potter movies?|Answer not found
+982|Where was the first Harrry Potter movie filmed?|Stephen La Rivière
+983|How many Bridget Jones movies have been made?|Answer not found
+984|How long is the first Jurassic Park movie?|Steven Spielberg
+985|Who is the main character in the Davinci Code?|Robert Langdon
+986|On which writer's work was Lord of the Rings based on?|Answer not found
+987|When was Leonardo DiCaprio born?|1974-11-11T00:00:00Z
+988|How many different actors have played the role of SpiderMan?|Answer not found
+989|Who is the executive producer of the series "Peaky Blinders"?|BBC Studios
+990|Who directed the movie "The Godfather"?|Answer not found
+991|When did Alan Rickman die?|2016-01-14T00:00:00Z
+992|Who was the costume designer for the movie "Sully"?|Answer not found
+993|What sport is portrayed in the movie "Rush"?|Error
+994|What awards did the actor Daniel Craig win?|Empire Award for Best Actor, BIFA Award for Best Performance by an Actor in a British Independent Film, Broadcast Film Critics Association Award for Best Actor in an Action Movie
+995|Who was the screenwriter for the movie "The Silence of the Lambs"?|Ted Tally
+996|Who is the founder of the Star Wars franchise?|George Lucas
+997|What are some of the most well known movies by Alfred Hitchcock?|http://commons.wikimedia.org/wiki/Special:FilePath/Hitchcock%2C%20Alfred%2002.jpg
+998|Who directed the movie "Need for Speed"?|Answer not found
+999|Who was the director of Interstellar?|Christopher Nolan
+1000|What is Inception about?|Error
+1001|Where does Ender's Game take place?|universe, Earth
+1002|What is the Lego Movie based on?|Phil Lord, Chris Miller
+1003|What genre is Gravity part of?|Answer not found
+1004|What's the duration of Elysium?|109
+1005|What is Total Recall based on?|Answer not found
+1006|Who was the screenwriter for 2012?|Error
+1007|Where was Minority Report created?|English
+1008|When is Blade Runner 2049 set?|Answer not found
+1009|What actors played in both Fight Club, and American History X?|Answer not found
+1010|What actor collaborated with Quentin Tarantino the most?|145772
+1011|What is the highest grossing movie that Michael Keaton played in?|Answer not found
+1012|Where was Napoleon Dynamite filmed?|Idaho
+1013|Did Pamela Anderson star in Borat?|Answer not found
+1014|When will The Matrix 4 be released?|2021-01-01T00:00:00Z, 2021-12-22T00:00:00Z, 2021-12-23T00:00:00Z
+1015|In what movies did Anthony Hopkins play Hannibal Lecter?|Answer not found
+1016|In what year was Soylent Green released?|Answer not found
+1017|What character did Tim Allen play in Toy Story?|title for Quebec
+1018|What Dutch actors starred in Blade Runner?|Harrison Ford, Daryl Hannah, Edward James Olmos, Rutger Hauer, Sean Young, Joanna Cassidy, James Hong, M. Emmet Walsh, Brion James, Morgan Paull, William Sanderson, Joe Turkel, Hy Pyke
+1019|When did Herman Brood die?|2001-07-11T00:00:00Z
+1020|Who are the members of The Black Keys?|Answer not found
+1021|Who is the head coach of FC Groningen?|Answer not found
+1022|Where was Roger Federer born?|Answer not found
+1023|What is the gender of Elon Musk?|Answer not found
+1024|Who founded LG Electronics?|Answer not found
+1025|When was the Playstation 5 released?|Answer not found
+1026|What was the life expectancy in The Netherlands in 1999?|Answer not found
+1027|Who is the composer of Iron Man?|Ramin Djawadi
+1028|When was Jurassic Park first released?|1993-06-11T00:00:00Z, 1993-09-02T00:00:00Z, 1993-09-03T00:00:00Z, 1993-10-20T00:00:00Z
+1029|Where was The Lord of the Rings: The Fellowship of the Ring filmed?|Answer not found
+1030|What movie genre is How to train your Dragon?|Answer not found
+1031|What game is Minecraft: The Movie based on?|Answer not found
+1032|Who edited Star Wars: Episode IV - A New Hope?|George Lucas, Paul Hirsch, Marcia Lucas, Richard Chew
+1033|What game is Minecraft: The Movie based on?|Answer not found
+1034|How many films are part of the Harry Potter film series?|Answer not found
+1035|What sport is Space Jam about?|Answer not found
+1036|What awards has George Lucas won?|AFI Life Achievement Award, Disney Legends, Kennedy Center Honors, National Medal of Arts, Inkpot Award, California Hall of Fame, Science Fiction and Fantasy Hall of Fame, AAAS Fellow
+1037|Who is the actor of Wanda in WandaVision?|Emma Caulfield, Kat Dennings, Elizabeth Olsen, Paul Bettany, Debra Jo Rupp, Kathryn Hahn, Fred Melamed, Evan Peters, Josh Stamberg, Jolene Purdy, Randall Park, Randy Oglesby, Teyonah Parris, Jett Klyne, Viviana Chavez, David Lengel, Julian Hilliard
+1038|Who is the first african american woman to ever win an Oscar?|Answer not found
+1039|Who was the composer of the music in Inception|Hans Zimmer
+1040|When was the movie Zootopia released in the United States?|Byron Howard, Rich Moore, Jared Bush
+1041|What is the highest-grossing R-rated movie of all time?|Error
+1042|Who were the screenwriters of the James Bond movie Skyfall?|Answer not found
+1043|What awards has Johnny Depp received?|People's Choice Awards, MTV Movie Award for Best Performance, Golden Globe Award, MTV Movie Award for Best Villain, Disney Legends, MTV Movie Award for Best Male Performance
+1044|What movie gave Tom Hanks his first Academy Award nomination?|Answer not found
+1045|How tall is Will Smith?|1.88
+1046|Who holds the record of most awards won?|Error
+1047|Who directed Hellboy?|Guillermo del Toro
+1048|What are the names of the Coen Brothers?|Answer not found
+1049|Who directed the movie that won the "Best Actress" award at 91st Acadeny Awards in 2018?|Stanislav Sokolov
+1050|What is the name of the third movie of the Lord of the Rings trilogy?|Answer not found
+1051|Who played Ron Weasley in the Harry Potter movies?|Gryffindor quidditch team
+1052|Which movie is the Disaster Artist about?|James Franco
+1053|What is the name of the Alfonso Cuaron movie, released in 2018?|Alfonso
+1054|Of which trilogy is Hot Fuzz a part of?|Answer not found
+1055|What is the name of the mockumentary movie, starring the Lonely Island?|Answer not found
+1056|Which TV series is the Naked Gun trilogy based on?|Answer not found
+1057|Who directed the movie "The Lion King"?|Roger Allers, Rob Minkoff
+1058|Who composed the music for the netflix original movie 'Polar'?|drama, action film, adventure film, crime film, thriller film
+1059|For which awards was the work of Hans Zimmer in the movie 'Interstellar' nominated?|Academy Award for Best Visual Effects
+1060|Which movies did Christopher Nolan direct?|Answer not found
+1061|Where did the story of 'Ford v Ferrari' take place?|Answer not found
+1062|What movie genre is the movie 'Pineapple express'?|Error
+1063|Who is in the cast of the movie 'Bad Trip'?|Answer not found
+1064|Which awards did the movie 'Uncut Gems' win?|National Board of Review: Top Ten Films
+1065|Which movie followed 'Star Wars: Episode IV - A New Hope'?|Answer not found
+1066|Who played the main role of Arthur Fleck in the 2019 release of 'Joker'?|Answer not found
+1067|For what film did Guillermo del Toro win the Academy Award for best director?|Answer not found
+1068|Hayao Miyazaki, director of the Oscar winning "Spirited Away" was born in what year?|Answer not found
+1069|The Three Flavours Cornetto trilogy, directed by Edgar Wright contains which three films?|The World's End, Hot Fuzz, Shaun of the Dead
+1070|What color is actor Michael Sheen's hair?|brown hair
+1071|What is the combined duration of all films in the Underworld series?|121
+1072|What genre(s) is the film Free Fire?|Answer not found
+1073|The character Galadriel from the Lord of the Rings series has been played by which two actresses?|Cate Blanchett, Morfydd Clark
+1074|What locations is the film Colossal set in?|Error
+1075|When was Anne Hathaway born?|1982-11-12T00:00:00Z
+1076|What time periods is City of God set in?|Answer not found
+1077|On what book is Apocalypse Now based?|Error
+1078|How much did Titanic cost to make?|200000000
+1079|What language is spoken in Parasite?|Answer not found
+1080|How many children does David Lynch have?|Jennifer Lynch, Austin Jack Lynch, Lula Boginia Lynch, Riley Sweeney Lynch
+1081|Who directed The Big Lebowski?|Lee Roy Myers
+1082|For what movie has Martin Scorsese won an oscar?|561
+1083|What movie from Andrei Tarkovsky came out in 1972?|31021
+1084|Who composed the music for Dunkirk?|drama, war film
+1085|Which company distributed Alien?|Answer not found
+1086|Which oscars did Guillermo del Toro's 2017 film win?|4809
+1087|Which film series about Middle-earth did Peter Jackson direct?|Answer not found
+1088|What movie genre is The Impossible?|Error
+1089|What is the name of the first film of the Star Trek film series?|English
+1090|Who was the voice actor of E.T.?|Debra Winger, Erika Eleniak, Dee Wallace, Peter Coyote, James Kahn, Tamara De Treaux, Anne Lockhart, C. Thomas Howell, Henry Thomas, Drew Barrymore, Robert MacNaughton, K. C. Martel, Sean Frye, Milt Kogan, Robert Barton
+1091|When was Adurey Hepburn born?|Answer not found
+1092|For which films did Cate Blanchett receive an Academy Award?|Answer not found
+1093|When was Parasite released?|2019-05-21T00:00:00Z
+1094|In which country was the director of Parasite born?|Answer not found
+1095|Who plays Frodo Baggings in The Lord of the Rings: the Two Towers?|Answer not found
+1096|What movie inspired The Matrix?|The Wachowskis
+1097|What film genre is the Titanic?|Answer not found
+1098|Who directed the Titanic?|James Cameron
+1099|What year did the film Finding Nemo come out?|comedy film, adventure film, family film
+1100|By what company was the film Tarzan directed?|Answer not found
+1101|What country is the film Lion King originally from?|Answer not found
+1102|What is the publication date of the film Fifty Shades of Grey?|Answer not found
+1103|Who is the screenwriter of Fifty Shades of Grey?|Kelly Marcel
+1104|Who are the main characters of Fifty Shades of Grey?|Anastasia Steele
+1105|What is the main subject of the film I spit on your grave?|Error
+1106|How long is the film I spit on your grave?|Error
+1107|Who voiced Ozai in Avatar: The Last Airbender?|J. K. Simmons, Zelda Williams, Seychelle Gabriel, Mindy Sterling, Jeff Bennett, Henry Rollins, David Faustino, Kiernan Shipka, April Stewart, Steven Yeun, Dee Bradley Baker, Steve Blum, John Michael Higgins, Janet Varney, Jonathan Adams, Greg Baldwin, Jim Meskimen, P. J. Byrne, Tim Hedrick, Skyler Brigmann
+1108|In what year was James Cameron's Avatar released?|2009-12-16T00:00:00Z, 2009-12-17T00:00:00Z, 2009-12-18T00:00:00Z
+1109|Who are the creators of Glee?|Brad Falchuk, Ryan Murphy, Ian Brennan
+1110|How many "How To Train Your Dragon" movies are there?|Answer not found
+1111|Which movies are part of the "How To Train Your Dragon" franchise?|Answer not found
+1112|Who plays the role of Tony Almeida in 24?|Answer not found
+1113|When is Jack Bauer's birthday?|Answer not found
+1114|What's the IMDb ID of the series 24?|tt4981966
+1115|Who is married to Shrek?|Princess Fiona
+1116|Who played a lead role in both Riverdale and the Suite Life of Zack and Cody?|Answer not found
+1117|What is the actor Jack Nicholson's date of birth?|Answer not found
+1118|Who is Lars von Trier?|Answer not found
+1119|What is most notable work from the American composer John Williams?|Answer not found
+1120|When was the American romantic disaster film Titanic released?|thriller film, film based on a novel
+1121|What is the famous phrase from the movie Forrest Gump?|Answer not found
+1122|Who created Star Wars?|Answer not found
+1123|What are the names of the episodes in the Harry Potter film series?|Answer not found
+1124|How many Academy Awards has Meryl Streep won so far?|Answer not found
+1125|What else is the actor Arnold Schwarzenegger known for?|Answer not found
+1126|Where was The Lord of the Rings trilogy filmed?|Answer not found
+1127|When was Leonardo di caprio born?|Answer not found
+1128|Who directed the movie Fight Club?|David Fincher
+1129|When was the movie Fight Club released for the first time?|David Fincher
+1130|When was the academy awards Oscars organised for the first time?|Error
+1131|Who is the founder and creator of Star Wars?|George Lucas
+1132|Who directed The Shawshank Redemption?|Frank Darabont
+1133|What's the name of Batman?|Answer not found
+1134|When was Brad Pitt born?|Answer not found
+1135|Where was Christopher Nolan born?|1970-07-30T00:00:00Z
+1136|What is Christopher Nolan's middle name?|Edward, Christopher
+1137|Who was the director of the movie "Star Wars: Episode IV – A New Hope"?|George Lucas
+1138|What actor played the role of "Legolas" in the "The Lord of the Rings" trilogy?|Zach Roerig, Daveigh Chase, Aimee Teegarden, Johnny Galecki, Vincent D'Onofrio, Laura Slade Wiggins, Lizzie Brocheré, Bonnie Morgan, Matilda Anna Ingrid Lutz, Alex Roe, Kayli Carter, Andrea Powell
+1139|Where was the movie "Pulp Fiction" filmed?|Quentin Tarantino
+1140|What awards did the movie "Joker" receive?|Todd Phillips
+1141|Where does the action take place in the movie "1917"?|Error
+1142|Henry Cavill played which fictional character in the movie "Zack Snyder's Justice League"?|Justice League
+1143|In what year was the movie "The Dark Knight" released?|Answer not found
+1144|Who composed the music for the movie "Interstellar"?|Answer not found
+1145|How long is the movie "Once Upon a Time in Hollywood"?|Zhao Xiaoding
+1146|In what period is the action of the movie "Gladiator" set in?|Answer not found
