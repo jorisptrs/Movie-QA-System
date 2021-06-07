@@ -24,5 +24,6 @@ def get_q_list():
 				ans_pos = i+1
 				break
 		answers = words[ans_pos:]
+		answers = [ans for ans in answers if '://www.wikidata.org/' not in ans]
 		questions.append((q, answers))
 	return questions
