@@ -1,4 +1,4 @@
 No|Query|Given Answer|System Answer
-0|What movie won best picture in the 2020 Academy Awards?|Parasite|Answer not found
-1|Who voices Nala in the 2019 version of The Lion King?|Beyoncé|Answer not found
-2|What was the budget for Avengers: Endgame?|356,000,000 United States dollar|Answer not found
+0|What movie won best picture in the 2020 Academy Awards?|Parasite|42
+1|Who voices Nala in the 2019 version of The Lion King?|Beyoncé|42
+2|What was the budget for Avengers: Endgame?|356,000,000 United States dollar|42
