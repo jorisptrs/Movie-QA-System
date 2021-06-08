@@ -1,4 +1,0 @@
-No|Query|Given Answer|System Answer
-0|What movie won best picture in the 2020 Academy Awards?|Parasite|
-1|Who voices Nala in the 2019 version of The Lion King?|Beyoncé|Rowan Atkinson, Matthew Broderick, Whoopi Goldberg, Cheech Marin, Jeremy Irons, James Earl Jones, Moira Kelly, Madge Sinclair, Jim Cummings, Ernie Sabella, Jonathan Taylor Thomas, Robert Guillaume, Nathan Lane, Joseph Williams, Niketa Calame, Jason Weaver, Zoe Leader, Sally Dworsky, Laura Williams
-2|What was the budget for Avengers: Endgame?|356,000,000 United States dollar|
